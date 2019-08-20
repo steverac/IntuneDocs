@@ -115,6 +115,8 @@ To restrict Azure AD-connected web apps to use the Intune Managed Browser on mob
 
     > [!NOTE]
     > Users must also be targeted with Intune App Protection policy in order to receive App Configuration policies. For more information about creating Intune App Protection policies, see [What are app protection policies?](app-protection-policy.md)
+  
+
 
 9. In the **Assignments** section, select **Cloud apps** to choose which apps to protect with this policy.
 
